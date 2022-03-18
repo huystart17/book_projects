@@ -12,5 +12,6 @@
 1. Sử dụng Koa js
 2. Sử dụng bulljs để chạy job
 3. sử dụng typescripts
-4. viết grpc service cho CRUD sách
-5. Sử dụng mongodb với mongoose
+4. Sử dụng mongodb với mongoose
+5. viết grpc service cho CRUD sách
+
