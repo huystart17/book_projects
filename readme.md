@@ -6,3 +6,11 @@
 5. Tạo docker image
 6. Tối ưu docker image
 7. Viết Ci
+
+
+# Yêu cầu thêm (nice to have)
+1. Sử dụng Koa js
+2. Sử dụng bulljs để chạy job
+3. sử dụng typescripts
+4. viết grpc service cho CRUD sách
+5. Sử dụng mongodb với mongoose
