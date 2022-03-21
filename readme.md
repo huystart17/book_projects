@@ -12,7 +12,7 @@
 1. Sử dụng Koa js
 2. Sử dụng bulljs để chạy job
 3. sử dụng typescripts
-4. Sử dụng jest 
+4. Sử dụng jest để test cho các api đã viết
 5. Sử dụng mongodb với mongoose
 6. viết grpc service cho CRUD sách
 
