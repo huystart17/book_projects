@@ -5,7 +5,6 @@
 4. Viết cronjob bắn webhook khi sách gần đến hạn phải trả (kịch bản báo người mượn trả sách) về https://webhook.site/ (vào đây lấy link) ![image](https://user-images.githubusercontent.com/16417051/156130421-7f19080d-d84f-496a-9d34-129b8000a173.png)
 5. Tạo docker image
 6. Tối ưu docker image
-7. Viết Ci
 
 
 # Yêu cầu thêm (nice to have)
@@ -15,4 +14,5 @@
 4. Sử dụng jest để test cho các api đã viết
 5. Sử dụng mongodb với mongoose
 6. viết grpc service cho CRUD sách
+7. Viết Ci
 
