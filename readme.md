@@ -13,8 +13,8 @@
 3. sử dụng typescripts
 4. Sử dụng jest để test cho các api đã viết
 5. Sử dụng mongodb với mongoose
-7. Dựng api tìm kiếm sách theo tên:
-- input "short everything" sẽ ra sách tên: A Short History of Nearly Everything
-- Yêu cầu phản hồi < 200ms
-6. Viết Ci (G)
+6. Dựng api tìm kiếm sách theo tên:
+  - input "short everything" sẽ ra sách tên: A Short History of Nearly Everything
+  - Yêu cầu phản hồi < 200ms (pl
+7. Viết Ci (G)
 
