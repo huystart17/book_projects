@@ -15,6 +15,6 @@
 5. Sử dụng mongodb với mongoose
 6. Dựng api tìm kiếm sách theo tên:
   - input "short everything" sẽ ra sách tên: A Short History of Nearly Everything
-  - Yêu cầu phản hồi < 200ms (pl
+  - Yêu cầu phản hồi < 200ms
 7. Viết Ci (Gitlab)
 
