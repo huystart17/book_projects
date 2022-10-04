@@ -16,5 +16,5 @@
 6. Dựng api tìm kiếm sách theo tên:
   - input "short everything" sẽ ra sách tên: A Short History of Nearly Everything
   - Yêu cầu phản hồi < 200ms (pl
-7. Viết Ci (G)
+7. Viết Ci (Gitlab)
 
