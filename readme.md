@@ -1,4 +1,4 @@
-# Requirement
+# Bắt buộc 
 1. Dựng restful api cho books
 2. Dựng api mượn sách
 3. Viết test code (jest hoặc tương đương) 
@@ -7,7 +7,7 @@
 6. Tối ưu docker image
 
 
-# Yêu cầu thêm
+# Yêu cầu thêm 1: Dựng code base, đóng gói + xử lý hiệu năng
 1. Sử dụng Koa js
 2. Sử dụng bulljs để chạy job
 3. sử dụng typescripts
@@ -18,3 +18,8 @@
 7. Sự dụng docker để đóng gói api
 8. Sử dụng docker-compose để làm môi trường deploy : cấu hình cho app <500mb ram  và 1CPU. cấu hình cho db < 1g ram và 1 CPU
 9. Api lấy danh sách sách, tìm kiếm cần < 100ms khi filter
+
+# Yêu cầu thêm 2 : Xây dựng cơ chế nghiệp vụ và tư duy sản phẩm
+1. Xây dựng cơ chế authen: đăng nhập, đăng ký
+2. Xây dựng cơ chế phân quyền với 2 role chính: 1 thủ thư, 1 người dùng
+3. Định nghĩa vai trò của thủ thư và của người dùng, xây dựng và thuyết minh tính năng
