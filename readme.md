@@ -7,7 +7,7 @@
 6. Tối ưu docker image
 
 
-# Yêu cầu thêm (nice to have)
+# Yêu cầu thêm
 1. Sử dụng Koa js
 2. Sử dụng bulljs để chạy job
 3. sử dụng typescripts
@@ -15,6 +15,6 @@
 5. Sử dụng mongodb với mongoose
 6. Dựng api tìm kiếm sách theo tên:
   - input "short everything" sẽ ra sách tên: A Short History of Nearly Everything
-  - Yêu cầu phản hồi < 200ms
-7. Viết Ci (Gitlab)
-
+7. Sự dụng docker để đóng gói api
+8. Sử dụng docker-compose để làm môi trường deploy : cấu hình cho app <500mb ram  và 1CPU. cấu hình cho db < 1g ram và 1 CPU
+9. Api lấy danh sách sách, tìm kiếm cần < 100ms khi filter
