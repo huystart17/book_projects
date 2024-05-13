@@ -22,4 +22,5 @@
 # Yêu cầu thêm 2 : Xây dựng cơ chế nghiệp vụ và tư duy sản phẩm
 1. Xây dựng cơ chế authen: đăng nhập, đăng ký
 2. Xây dựng cơ chế phân quyền với 2 role chính: 1 thủ thư, 1 người dùng
-3. Định nghĩa vai trò của thủ thư và của người dùng, xây dựng và thuyết minh tính năng
+3. Định nghĩa vai trò của thủ thư và của người dùng, xây dựng api và thuyết minh tính năng
+4. Dựng postman (phục vụ cho test và document) và test case của các api nghiệp vụ
